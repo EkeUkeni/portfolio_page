@@ -22,6 +22,10 @@ div.wrapper {
     line-height: 28px;
     font-size: small;
 }
+.name {
+    margin-top: 15px;
+    margin-right: 110px;
+}
 
 nav.nav {
     display: flex;
